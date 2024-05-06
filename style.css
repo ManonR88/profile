@@ -63,6 +63,8 @@ p{
 
 li{
   display: inline-block;
+  color: #4309ff;
+  font-size: 30px;
 }
 
 li:hover {
