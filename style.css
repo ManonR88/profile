@@ -65,6 +65,12 @@ li{
   display: inline-block;
 }
 
+li:hover {
+  display: inline-block;
+  color: #bca8ff;
+  font-size: 50px;
+}
+
 @media (max-width: 960px) {
   .container {
     width: 75%;
