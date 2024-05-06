@@ -29,6 +29,7 @@ p{
 
 .btn_jaune{
   background-color: #ffbe0b;
+  color: black;
   padding: 15px 20px;
   border-radius: 7px;
   font-family: Roboto, sans-serif;
@@ -63,16 +64,18 @@ p{
 
 li{
   display: inline-block;
+}
+
+.fa-brands{
   color: #4309ff;
   font-size: 30px;
 }
 
-li:hover {
-  display: inline-block;
+.fa-brands:hover{
   color: #bca8ff;
   font-size: 35px;
 }
-è
+
 @media (max-width: 960px) {
   .container {
     width: 75%;
